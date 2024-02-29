@@ -6,6 +6,8 @@
 
 let numbers = ["one", "two", "three", "four", "five"] ;
 
+// numbers.pop() ; // pop is to remove the last element 
+numbers.push("six") ;
 numberOf(numbers) ;
 
 function numberOf(numbers) {

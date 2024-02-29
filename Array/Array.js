@@ -7,14 +7,16 @@
 let numbers = ["one", "two", "three", "four", "five"] ;
 
 // numbers.pop() ; // pop is to remove the last element 
-// numbers.push("six") ; // to add to the list 
-numbers.unshift() ;
+// numbers.push("six") ; // to add to the last of list 
+numbers.unshift("zero") ; // to add to the first of list
 
-numberOf(numbers) ;
+let xNumber = numberOf(numbers) ;
+
+console.log("Is the ", xNumber) ;
 
 function numberOf(numbers) {
 
   for(let i = 0 ; i < numbers.length ; i++){
-    console.log(numbers[i]) ;
+    return numbers[i] ;
   }
 }

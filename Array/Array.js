@@ -9,5 +9,6 @@ let number = ["one", "two", "three", "four", "five"] ;
 numberOf(number) ;
 
 function numberOf(number) {
-  
+
+  for(let i = 0 ; i < 10; i++)
 }

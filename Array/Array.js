@@ -7,7 +7,9 @@
 let numbers = ["one", "two", "three", "four", "five"] ;
 
 // numbers.pop() ; // pop is to remove the last element 
-numbers.push("six") ;
+// numbers.push("six") ; // to add to the list 
+numbers.unshift() ;
+
 numberOf(numbers) ;
 
 function numberOf(numbers) {

@@ -9,6 +9,7 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // numbers.pop() ; // pop is to remove the last element 
 // numbers.push("six") ; // to add to the last of list 
 // numbers.unshift("zero") ; // to add to the first of list
+numbers.sort() ; // sort for alphabetical order 
 
 let xNumber = numberOf(numbers) ;
 

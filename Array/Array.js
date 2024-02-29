@@ -4,13 +4,13 @@
 
 // console.log(listNames[1]) ;
 
-let number = ["one", "two", "three", "four", "five"] ;
+let numbers = ["one", "two", "three", "four", "five"] ;
 
-numberOf(number) ;
+numberOf(numbers) ;
 
-function numberOf(number) {
+function numberOf(numbers) {
 
-  for(let i = 0 ; i < 10; i++){
-    number += i 
+  for(let i = 0 ; i < numbers.length ; i++){
+    console.log(numbers[i]) ;
   }
 }

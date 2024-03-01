@@ -1,7 +1,7 @@
 // Todo Array 
 
 const USERNAME = ["Marck", "Ryuo", "Moda", "Arck", "Mak", "Jhon Mark"];
-let mc = 4 ;
+let mc = 2 ;
 nameOfCharacter(USERNAME, mc) ;
 
 function nameOfCharacter(USERNAME,mc) {

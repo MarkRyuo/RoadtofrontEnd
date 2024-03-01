@@ -16,5 +16,7 @@ function nameOfCharacter(USERNAME) {
       console.log(USERNAME[1]) ;
       break ;
     case mc == 2 :
+      console.log(USERNAME[2]) ;
+      break ;
   }
 }

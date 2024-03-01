@@ -8,22 +8,22 @@ function nameOfCharacter(USERNAME,mc) {
   
   switch(true){
     case mc == 0 :
-      console.log(`Your ${USERNAME[0]}, you put number ${mc}!`) ;
+      console.log(`Your ${USERNAME[0]}, And you put the number ${mc}!`) ;
       break ;
     case mc == 1 :
-      console.log(`Your ${USERNAME[1]}, you put number ${mc}!`) ;
+      console.log(`Your ${USERNAME[1]}, And you put the number ${mc}!`) ;
       break ;
     case mc == 2 :
-      console.log(`Your ${USERNAME[2]}, you put number ${mc}!`) ;
+      console.log(`Your ${USERNAME[2]}, And you put the number ${mc}!`) ;
       break ;
     case mc == 3 :
-      console.log(`Your ${USERNAME[3]}, you put number ${mc}!`) ;
+      console.log(`Your ${USERNAME[3]}, And you put the number ${mc}!`) ;
       break ;
     case mc == 4 :
-      console.log(`Your ${USERNAME[4]}, you put number ${mc}!`) ;
+      console.log(`Your ${USERNAME[4]}, And you put the number ${mc}!`) ;
       break ;
     case mc == 5 : 
-      console.log(`Your ${USERNAME[5]}, you put number ${mc}!`) ;
+      console.log(`Your ${USERNAME[5]}, And you put the number ${mc}!`) ;
       break ;
     default :
       console.log(mc, " Character is not found in the verse") ;

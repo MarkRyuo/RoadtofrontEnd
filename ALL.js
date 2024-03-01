@@ -8,7 +8,7 @@ function nameOfCharacter(USERNAME) {
 
   let mc = 0 ;
   
-  switch(USERNAME){
+  switch(mc){
     case mc == 0 :
       console.log(USERNAME[0]) ;
       break ;

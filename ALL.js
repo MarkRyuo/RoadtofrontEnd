@@ -27,5 +27,5 @@ function nameOfCharacter(USERNAME,mc) {
       break ;
     default :
       console.log(mc, " Character is not found in the verse") ;
-  }
-}
+  } ;
+} ; 

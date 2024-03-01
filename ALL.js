@@ -27,5 +27,7 @@ function nameOfCharacter(USERNAME) {
     case mc == 5 : 
       console.log(USERNAME[5]) ;
       break ;
+    default :
+      console.log("Character is not to the verse") ;
   }
 }

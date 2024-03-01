@@ -1,7 +1,7 @@
 // Todo Array 
 
 const USERNAME = ["Marck", "Ryuo", "Moda", "Arck", "Mak", "Jhon Mark"];
-let mc = 0 ;
+let mc = 2 ;
 nameOfCharacter(USERNAME, mc) ;
 
 function nameOfCharacter(USERNAME,mc) {
@@ -26,6 +26,6 @@ function nameOfCharacter(USERNAME,mc) {
       console.log(USERNAME[5]) ;
       break ;
     default :
-      console.log("Character is not to the verse") ;
+      console.log(mc, " Character is not found in the verse") ;
   }
 }

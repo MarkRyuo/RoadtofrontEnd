@@ -1,14 +1,12 @@
 // Todo Array 
 
 const USERNAME = ["Marck", "Ryuo", "Moda", "Arck", "Mak", "Jhon Mark"];
+let mc = 0 ;
+nameOfCharacter(USERNAME, mc) ;
 
-nameOfCharacter(USERNAME) ;
-
-function nameOfCharacter(USERNAME) {
-
-  let mc = 0 ;
+function nameOfCharacter(USERNAME,mc) {
   
-  switch(mc){
+  switch(true){
     case mc == 0 :
       console.log(USERNAME[0]) ;
       break ;

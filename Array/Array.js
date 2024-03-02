@@ -28,6 +28,11 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // Todo array function 
 
 
+function listOfPeople () {
+  
+}
+
+
 const LIST = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
 
 let peopleList =  " "  ;  // Input 

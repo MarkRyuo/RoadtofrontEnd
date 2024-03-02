@@ -12,14 +12,17 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // numbers.sort() ; // sort for alphabetical order 
 // numbers.reverse() ; // reverse the inside the array 
 
-let xNumber = numberOf(numbers) ;
+// let xNumber = numberOf(numbers) ;
 
-console.log(xNumber) ;
+// console.log(xNumber) ;
 
-function numberOf(numbers) {
+// function numberOf(numbers) {
 
-  for(let i = 0 ; i < numbers.length ; i++){
-  //  return numbers[i] ; //not this 
-    console.log(numbers[i]) ;
-  }
-}
+//   for(let i = 0 ; i < numbers.length ; i++){
+//   //  return numbers[i] ; //not this 
+//     console.log(numbers[i]) ;
+//   }
+// }
+
+
+// todo array 

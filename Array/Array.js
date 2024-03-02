@@ -27,22 +27,25 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 
 // Todo array function 
 
-let peopleList =  " "  ;  // Input 
 
 listOfPeople() ;
 
 function listOfPeople () {
 
   const LIST = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
+  LIST.push["Jhon Mark"]
+  console.log(LIST) ;
+
   peoples(peopleList, LIST) ;
   
 }
 
+let peopleList =  " "  ;  // Input 
 
 peoples(peopleList, LIST) ;
 
 function peoples(peopleList) {
 
-  
+    
 
 }

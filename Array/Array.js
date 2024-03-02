@@ -33,8 +33,8 @@ listOfPeople() ;
 function listOfPeople () {
 
   const LIST = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
-  LIST.push["Jhon Mark"]
-  console.log(LIST) ;
+  LIST.push("Jhon Mark") ;
+  console.log(`${LIST} This is the List of Names of the mc's`) ;
 
   peoples(LIST) ;
   

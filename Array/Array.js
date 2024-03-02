@@ -40,9 +40,9 @@ function listOfPeople () {
   
 }
 
-let peopleList =  " "  ;  // Input 
+let peopleList =  "0"  ;  // Input 
 
-peoples(peopleList) ; 
+peoples(peopleList, LIST) ; 
 
 function peoples(peopleList, LIST) {
 

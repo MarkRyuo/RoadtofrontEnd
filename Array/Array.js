@@ -36,16 +36,16 @@ function listOfPeople () {
   LIST.push["Jhon Mark"]
   console.log(LIST) ;
 
-  peoples(peopleList, LIST) ;
+  peoples(LIST) ;
   
 }
 
 let peopleList =  " "  ;  // Input 
 
-peoples(peopleList, LIST) ;
+peoples(peopleList) ; 
 
-function peoples(peopleList) {
+function peoples(peopleList, LIST) {
 
-    
+    console.log(peopleList, LIST) ;
 
 }

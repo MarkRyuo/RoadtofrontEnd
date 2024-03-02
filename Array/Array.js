@@ -30,3 +30,9 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 
 const peopleList = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
 
+peoples(peopleList) ;
+
+function peoples(peopleList) {
+
+  
+}

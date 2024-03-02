@@ -25,7 +25,7 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // }
 
 
-// Todo array funtion 
+// Todo array function 
 
 
 const peopleList = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
@@ -34,5 +34,5 @@ peoples(peopleList) ;
 
 function peoples(peopleList) {
 
-  
+
 }

@@ -25,4 +25,8 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // }
 
 
-// todo array 
+// Todo array funtion 
+
+
+const peopleList = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
+

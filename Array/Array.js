@@ -28,10 +28,10 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // Todo array function 
 
 
-const list = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
+const LIST = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
 
-let peopleList
-peoples(peopleList, list) ;
+let peopleList =  " "  ;  // Input 
+peoples(peopleList, LIST) ;
 
 function peoples(peopleList) {
 

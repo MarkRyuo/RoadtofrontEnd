@@ -28,11 +28,13 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // Todo array function 
 
 
-const peopleList = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
+const list = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
 
-peoples(peopleList) ;
+let peopleList
+peoples(peopleList, list) ;
 
 function peoples(peopleList) {
 
+  
 
 }

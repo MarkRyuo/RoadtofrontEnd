@@ -34,7 +34,7 @@
 
 // happyBirthday()
 
-let birth = "Happ Birthday" ;
+// let birth = "Happy Birthday" ;
 
 function happyBirthday(birth) {
 
@@ -45,4 +45,5 @@ function happyBirthday(birth) {
 
 } ;
 
-happyBirthday(birth) ;
+let res = happyBirthday("Happy Birtday") ;
+console.log(res)

@@ -25,3 +25,11 @@
 // } ;
 
 // characters(names) ;
+
+// 
+
+function happyBirthday() {
+  console.log("Happy Birtday")
+}
+
+happyBirthday()

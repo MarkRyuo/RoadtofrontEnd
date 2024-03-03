@@ -15,10 +15,11 @@ function nameOf() {
 
 } ;
 
-nameOf() ;
+// nameOf() ; 
 
 function characters(nameOf) {
 
+  console.log(nameOf) ;
 } ;
 
 characters(nameOf) ;

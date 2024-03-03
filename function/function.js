@@ -20,3 +20,5 @@ nameOf() ;
 function characters() {
 
 } ;
+
+characters() ;

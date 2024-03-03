@@ -17,7 +17,7 @@ function nameOf() {
 
 } ;
 
-nameOf() ;
+const names = nameOf() ;
 
 function characters(nameOf) {
 

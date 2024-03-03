@@ -40,13 +40,18 @@
 
 // console.log(b) ;
 
-happyBirthday("Happy Birthday!") ;
+console.log(happyBirthday("Happy Birthday!")) ;
+
+
 
 function happyBirthday(birth) {
 
   for(let i = 0 ; i < 10 ; i+=1 ) {
-    i += birth ;
-    console.log(i)
+
+    birth += i 
+    return birth ;
+    
+      
   }
 
 } ;

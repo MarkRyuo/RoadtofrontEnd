@@ -45,7 +45,7 @@ console.log(happyBirthday("Happy Birthday!")) ;
 
 
 function happyBirthday(birth) {
-
+  
   for(let i = 0 ; i < 10 ; i+=1 ) {
 
     birth += i 

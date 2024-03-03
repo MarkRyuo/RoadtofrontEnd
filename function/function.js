@@ -8,4 +8,8 @@
    // todo Argument
 // names("Jhon Mark") ; // Call the function 
 
+function nameOf() {
+  
+} ;
 
+nameOf() ;

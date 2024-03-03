@@ -24,4 +24,4 @@ function characters(nameOf) {
   console.log(nameOf) ;
 } ;
 
-characters(nameOf) ;
+characters(names) ;

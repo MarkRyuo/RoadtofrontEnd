@@ -17,8 +17,8 @@ function nameOf() {
 
 nameOf() ;
 
-function characters() {
+function characters(nameOf) {
 
 } ;
 
-characters() ;
+characters(nameOf) ;

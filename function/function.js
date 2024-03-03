@@ -1,10 +1,9 @@
 
-            // Parameter
+      // todo Parameter
 function names (name) {
 
   console.log(name) ;
 } ;
 
-      // Argument
+   // todo Argument
 names("Jhon Mark") ; // Call the function 
-

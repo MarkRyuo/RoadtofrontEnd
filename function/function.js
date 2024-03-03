@@ -34,11 +34,13 @@
 
 // happyBirthday()
 
-let birth = "Happy Birthday" ;
+// let birth = "Happy Birthday" ;
 
-let b = happyBirthday(birth) ;
+// let b = happyBirthday(birth) ;
 
-console.log(b) ;
+// console.log(b) ;
+
+happyBirthday("Happy Birthday!") ;
 
 function happyBirthday(birth) {
 

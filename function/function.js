@@ -44,5 +44,4 @@ function happyBirthday(birth) {
 
 } ;
 
-let b = happyBirthday("Happy Birthday") ;
-console.log(b)
+happyBirthday("Happy Birthday") ;

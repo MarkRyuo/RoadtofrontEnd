@@ -10,7 +10,9 @@
 
 function nameOf() {
 
-  const names = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
+  const list = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
+
+  let names = list[0] ;
   return names ;
 
 } ;

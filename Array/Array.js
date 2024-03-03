@@ -28,24 +28,24 @@ let numbers = ["one", "two", "three", "four", "five"] ;
 // Todo array function 
 
 
-listOfPeople() ;
+// listOfPeople() ;
 
-function listOfPeople () {
+// function listOfPeople () {
 
-  const LIST = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
-  LIST.push("Jhon Mark") ;
-  console.log(`${LIST} This is the List of Names of the mc's`) ;
+//   const LIST = ["Ryuo", "Moda", "Mark", "MarkRyuo"] ;
+//   LIST.push("Jhon Mark") ;
+//   console.log(`${LIST} This is the List of Names of the mc's`) ;
 
-  peoples(LIST) ;
+//   peoples(LIST) ;
   
-}
+// }
 
-let peopleList = "0"  ;  // Input 
+// let peopleList = "0"  ;  // Input 
 
-peoples(peopleList) ; 
+// peoples(peopleList) ; 
 
-function peoples(peopleList, LIST) {
+// function peoples(peopleList, LIST) {
 
-    console.log(peopleList, LIST) ;
+//     console.log(peopleList, LIST) ;
 
-}
+// }

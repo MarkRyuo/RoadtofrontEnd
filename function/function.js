@@ -19,9 +19,9 @@ function nameOf() {
 
 const names = nameOf() ;
 
-function characters(nameOf) {
+function characters(names) {
 
-  console.log(nameOf) ;
+  console.log(names) ;
 } ;
 
 characters(names) ;

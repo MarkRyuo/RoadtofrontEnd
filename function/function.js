@@ -38,9 +38,11 @@ let birth = "Happy Birthday" ;
 
 let b = happyBirthday(birth) ;
 
+console.log(b) ;
+
 function happyBirthday(birth) {
 
-  for(let i = 0 ; i <= 10 ; i++ ) {
+  for(let i = 0 ; i <= 10 ; i+=1 ) {
     birth += i ;
     return birth ;
   }

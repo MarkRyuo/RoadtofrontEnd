@@ -39,6 +39,7 @@ function happyBirthday(birth) {
 
   for(let i = 0 ; i <= 10 ; i++ ) {
     birth += 1
+    return birth ;
   }
 
 } ;

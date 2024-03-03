@@ -35,3 +35,12 @@
 // happyBirthday()
 
 
+function happyBirthday(birth) {
+
+  for(let i = 0 ; i <= 10 ; i++ ) {
+    happyBirthday += 1
+  }
+
+} ;
+
+happyBirthday("Happy Birthday") ;

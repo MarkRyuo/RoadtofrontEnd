@@ -8,14 +8,14 @@
    // todo Argument
 // names("Jhon Mark") ; // Call the function 
 
-function nameOf(names) {
+function nameOf() {
 
   const names = ["Jhon Mark", "Nicole", "Mark", "Samantha", "Sopheya"] ;
   return names ;
 
 } ;
 
-nameOf(names) ;
+nameOf() ;
 
 function characters(nameOf) {
 

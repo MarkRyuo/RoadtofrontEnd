@@ -40,18 +40,18 @@
 
 // console.log(b) ;
 
-console.log(happyBirthday("Happy Birthday!")) ;
+// console.log(happyBirthday("Happy Birthday!")) ;
 
 
 
-function happyBirthday(birth) {
+// function happyBirthday(birth) {
   
-  for(let i = 0 ; i < 10 ; i++ ) {
+//   for(let i = 0 ; i < 10 ; i++ ) {
 
-    birth += i 
-    return birth ;
+//     birth += i 
+//     return birth ;
     
       
-  }
+//   }
 
-} ;
+// } ;

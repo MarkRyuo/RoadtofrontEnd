@@ -65,15 +65,13 @@ function userOf() {
   let users = ["Jhon Mark", 21 ] ;
   users.push("MarkRyuo") ;
   users.unshift("moda.")
-  // return users ; 
-
-  names(users[""])
+  return users ; 
 
 }
 
 userOf() ;
 // console.log(userOf()) ;
-
+names(userOf() ;)
 
 function names(users) {
   

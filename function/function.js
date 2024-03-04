@@ -69,4 +69,9 @@ function userOf() {
   
 }
 
-console.log(userOf()) ;
+// console.log(userOf()) ;
+
+
+function names() {
+  
+}

@@ -63,7 +63,8 @@
 function userOf() {
 
   let users = ["Jhon Mark", 21 ] ;
-  userOf.push("MarkRyuo")
+  users.push("MarkRyuo") ;
+  users.unshift("moda.")
   return users ; 
   
 }

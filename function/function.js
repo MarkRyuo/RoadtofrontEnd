@@ -69,9 +69,13 @@ function userOf() {
   
 }
 
+
+userOf() ;
 // console.log(userOf()) ;
 
 
-function names() {
+function names(users) {
   
+  console.log(`My name is ${users[0]} and my age is ${users[1]}`)
+
 }

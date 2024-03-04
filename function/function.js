@@ -60,10 +60,10 @@
 // todo function is like a box 
 
 
-function users() {
+function userOf() {
 
-  let userName = "Jhon Mark"
-  return userName ; 
+  let users
+  return users ; 
   
 }
 

@@ -62,7 +62,7 @@
 
 function userOf() {
 
-  let users
+  let users = ["Jhon Mark", 21 ] ;
   return users ; 
   
 }

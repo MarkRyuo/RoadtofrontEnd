@@ -95,13 +95,13 @@
 
 
 
-let users = ["Jhon Mark", "Nicole", "Kyla", "Samantha", "Sopheya"] ;
+let users = ["Jhon Mark", "Nicole", "Kyla", "Samantha", "Sopheya"] ; // Array 
 let age = 19 ;
 let gpa = 2.0 ;
 
-userOf(userName) ; // call the function 
+userOf(users) ; // call the function 
 
-function userOf(userName) {
+function userOf(users) {
 
   userName = 
 

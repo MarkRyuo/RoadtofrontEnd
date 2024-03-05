@@ -99,9 +99,10 @@ let userName = "Jhon Mark" ;
 let age = 19 ;
 let gpa = 2.0 ;
 
-allOf() ; // call the function 
+allOf(userName, age , gpa) ; // call the function 
 
 function allOf() {
+
 
 
 

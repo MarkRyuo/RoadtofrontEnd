@@ -99,11 +99,11 @@ let userName = "Jhon Mark" ;
 let age = 19 ;
 let gpa = 2.0 ;
 
-allOf(userName, age , gpa) ; // call the function 
+userOf(userName) ; // call the function 
 
-function allOf() {
+function userOf(userName) {
 
-
+  
 
 
 }

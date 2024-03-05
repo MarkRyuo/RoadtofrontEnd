@@ -99,3 +99,7 @@ let userName = "Jhon Mark" ;
 let age = 19 ;
 let gpa = 2.0 ;
 
+
+function allOf() {
+  
+}

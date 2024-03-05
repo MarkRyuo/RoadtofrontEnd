@@ -78,3 +78,12 @@
 //   console.log(`My name is ${users[1]} and my age is ${users[2]}`)
 
 // }
+
+const user = ["Leomar", "Martha", "John Carlo", "Jhon Mark", "Niel", "Scavanger"] ;
+
+boxType(user) ;
+
+function boxType(name) {
+
+  if name 
+}

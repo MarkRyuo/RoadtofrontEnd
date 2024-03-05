@@ -80,13 +80,15 @@
 // }
 
 const user = ["Leomar", "Martha", "John Carlo", "Jhon Mark", "Niel", "Scavanger"] ;
+let userOf = user[""] ;
 
 boxType(user) ;
 
 function boxType(user) {
 
-  let user[0] ;
+  user[0] ;
+
   if(userOf == user[0]) {
-    
+
   }
 }

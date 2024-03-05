@@ -108,6 +108,9 @@ function userOf(users) {
   if(userName == users[0]) {
     console.log(`Hello ${users[0]} your turn!`)
   }
+  else {
+    console.log("Hello Enter Any")
+  }
 
 
 }

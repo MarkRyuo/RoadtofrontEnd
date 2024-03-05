@@ -79,16 +79,16 @@
 
 // }
 
-const user = ["Leomar", "Martha", "John Carlo", "Jhon Mark", "Niel", "Scavanger"] ;
-let userOf = user[""] ;
+// const user = ["Leomar", "Martha", "John Carlo", "Jhon Mark", "Niel", "Scavanger"] ;
+// let userOf = user[""] ;
 
-boxType(user, userOf) ;
+// boxType(user, userOf) ;
 
-function boxType(user) {
+// function boxType(user) {
 
-  user[0] ;
+//   user[0] ;
 
-  if(userOf == user[0]) {
-
-  }
-}
+//   if(userOf == user[0]) {
+      
+//   }
+// }

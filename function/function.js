@@ -105,8 +105,8 @@ function userOf(users) {
 
   let userName = users[""] ; // Creating a variable to host the users
 
-  if(userName) {
-    
+  if(userName == users[0]) {
+    console.log(`Hello ${users[0]} your turn!`)
   }
 
 

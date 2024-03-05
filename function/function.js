@@ -82,7 +82,7 @@
 const user = ["Leomar", "Martha", "John Carlo", "Jhon Mark", "Niel", "Scavanger"] ;
 let userOf = user[""] ;
 
-boxType(user) ;
+boxType(user, userOf) ;
 
 function boxType(user) {
 

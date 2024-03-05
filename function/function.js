@@ -103,7 +103,11 @@ userOf(users) ; // call the function
 
 function userOf(users) {
 
-  userName = 
+  let userName = users[""] ; // Creating a variable to host the users
+
+  if(userName) {
+    
+  }
 
 
 }

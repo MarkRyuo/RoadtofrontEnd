@@ -108,9 +108,12 @@ function userOf(users) {
   if(userName == users[0]) {
     console.log(`Hello ${users[0]} your turn!`) ; // If userName is Entered 0 Print the name of the index 0 in array 
   }
+  else if(userName == users[1]){
+    console.log(`Hello ${users[1]} your turn!`)
+  }
   else {
     console.log("You Entered is not Found") ;
   }
 
-
 }
+

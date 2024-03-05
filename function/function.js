@@ -95,7 +95,7 @@
 
 
 
-let users = ["Jhon Mark", "Nicole", "Kyla", "Samantha", "Sopheya"] ; // Array 
+let users = ["Jhon Mark", "Nicole", "Key", "Samantha", "Sopheya"] ; // Array 
 let age = 19 ;
 let gpa = 2.0 ;
 
@@ -106,7 +106,7 @@ function userOf(users) {
   let userName = users[""] ; // Creating a variable to host the users
 
   if(userName == users[0]) {
-    console.log(`Hello ${users[0]} your turn!`) ; // If userName is User 0 Print the name of the index 0
+    console.log(`Hello ${users[0]} your turn!`) ; // If userName is Entered 0 Print the name of the index 0 in array 
   }
   else {
     console.log("Hello Enter Any") ;

@@ -95,4 +95,5 @@
 
 
 
-let userName = 
+let userName = "Jhon Mark" ;
+let age = 19 ;

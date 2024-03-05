@@ -83,7 +83,10 @@ const user = ["Leomar", "Martha", "John Carlo", "Jhon Mark", "Niel", "Scavanger"
 
 boxType(user) ;
 
-function boxType(name) {
+function boxType(user) {
 
-  if name 
+  let user[0] ;
+  if(userOf == user[0]) {
+    
+  }
 }

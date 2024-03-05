@@ -60,21 +60,21 @@
 // todo function is like a box 
 
 
-function userOf() {
+// function userOf() {
 
-  let users = ["Jhon Mark", 21 ] ;
-  users.push("MarkRyuo") ;
-  users.unshift("moda.")
-  return users ; 
+//   let users = ["Jhon Mark", 21 ] ;
+//   users.push("MarkRyuo") ;
+//   users.unshift("moda.")
+//   return users ; 
 
-}
+// }
 
-userOf() ;
-// console.log(userOf()) ;
-names(userOf()) ;
+// userOf() ;
+// // console.log(userOf()) ;
+// names(userOf()) ;
 
-function names(users) {
+// function names(users) {
   
-  console.log(`My name is ${users[1]} and my age is ${users[2]}`)
+//   console.log(`My name is ${users[1]} and my age is ${users[2]}`)
 
-}
+// }

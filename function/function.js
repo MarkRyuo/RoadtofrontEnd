@@ -115,7 +115,7 @@ function userOf(users) {
     console.log(`Hello ${users[2]} your turn!`) ; // key is the index 2
   }
   else if(userName == users[1]){
-    console.log(`Hello ${users[1]} your turn!`) ; // Nicole is the index 1
+    console.log(`Hello ${users[1]} your turn!`) ; // Samantha is the index 3
   }
   else {
     console.log("You Entered is not Found") ;

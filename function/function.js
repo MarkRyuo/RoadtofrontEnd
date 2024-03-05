@@ -95,7 +95,7 @@
 
 
 
-let userName = "Jhon Mark" ;
+let users = ["Jhon Mark", "Nicole", "Kyla", "Samantha", "Sopheya"] ;
 let age = 19 ;
 let gpa = 2.0 ;
 
@@ -103,7 +103,7 @@ userOf(userName) ; // call the function
 
 function userOf(userName) {
 
-  
+  userName = 
 
 
 }

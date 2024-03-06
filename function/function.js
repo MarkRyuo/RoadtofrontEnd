@@ -153,4 +153,4 @@ ageOf(age) ; // call the function to display it
     default :
       console.log("Enter") ;
   }
- }
+ } ;

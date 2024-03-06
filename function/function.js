@@ -146,7 +146,9 @@ ageOf(age) ; // call the function to display it
       console.log("Your a Adult Adult") ;
       break ;
     
-    case age >
+    case age > 60 :
+      console.log("Your a Senior") ;
+      break ;
     
 
     default :

@@ -94,7 +94,7 @@
 // }
 
 
-// I think the array is always to be a const 
+// I think the array is always to be a const
 const users = ["Jhon Mark", "Nicole", "Key", "Samantha", "Sopheya"] ; // Array 
 let age = 19 ;
 let gpa = 2.0 ;
@@ -132,10 +132,12 @@ ageOf(age) ; // call the function to display it
       //  age is called Parameter of this function 
  function ageOf(age){
 
-  if(age < 18 && age >= 15) {
-    console.log("Your Teenager") ;
-  }
-  else {
-    console.log("Your an Adult") ;
+  switch(true){
+
+    case age >= 15 && age < 18 :
+      console.log("Your a Teenager!") ;
+      break ;
+    
+    
   }
  }

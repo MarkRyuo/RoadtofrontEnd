@@ -150,7 +150,6 @@ ageOf(age) ; // call the function to display it
       console.log("Your a Senior") ;
       break ;
     
-
     default :
       console.log("Enter") ;
   }

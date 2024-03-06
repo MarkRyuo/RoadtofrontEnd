@@ -142,11 +142,11 @@ ageOf(age) ; // call the function to display it
       console.log("Your a Min Adult") ;
       break ;
 
-    case age > 30 || age <= 40 :
+    case age > 30 || age < 60 :
       console.log("Your a Adult Adult") ;
       break ;
     
-    caseg
+    case age >
     
 
     default :

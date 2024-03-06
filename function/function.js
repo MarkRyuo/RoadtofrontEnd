@@ -132,4 +132,7 @@ function userOf(users) {
 
  function userOf(age){
 
+  if(age < 18 && age >= 15) {
+    console.log("Your Teenager") ;
+  }
  }

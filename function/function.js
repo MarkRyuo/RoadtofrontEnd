@@ -94,7 +94,7 @@
 // }
 
 
-
+// I think the array is always to be a const 
 const users = ["Jhon Mark", "Nicole", "Key", "Samantha", "Sopheya"] ; // Array 
 let age = 19 ;
 let gpa = 2.0 ;

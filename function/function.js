@@ -135,11 +135,11 @@ ageOf(age) ; // call the function to display it
   switch(true){
 
     case age >= 15 && age < 18 :
-      console.log(`${age}Your a Teenager!`) ;
+      console.log(`${age} Your a Teenager!`) ;
       break ;
     
     case age <= 19 || age >= 30 :
-      console.log("Your a Min Adult") ;
+      console.log(`${age} Your a Min Adult`) ;
       break ;
 
     case age > 30 || age < 60 :

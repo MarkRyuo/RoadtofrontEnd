@@ -95,7 +95,7 @@
 
 
 
-let users = ["Jhon Mark", "Nicole", "Key", "Samantha", "Sopheya"] ; // Array 
+const users = ["Jhon Mark", "Nicole", "Key", "Samantha", "Sopheya"] ; // Array 
 let age = 19 ;
 let gpa = 2.0 ;
 
@@ -127,8 +127,9 @@ function userOf(users) {
  } ;
 
 
-ageOf(age) ;
+ageOf(age) ; // call the function to display it
 
+      //  age is called Parameter of this function 
  function ageOf(age){
 
   if(age < 18 && age >= 15) {

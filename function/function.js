@@ -151,6 +151,6 @@ ageOf(age) ; // call the function to display it
       break ;
     
     default :
-      console.log("Enter") ;
+      console.log(`${age} Enter`) ;
   }
  } ;

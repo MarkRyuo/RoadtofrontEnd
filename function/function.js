@@ -143,7 +143,7 @@ ageOf(age) ; // call the function to display it
       break ;
 
     case age > 30 || age < 60 :
-      console.log("Your a Adult Adult") ;
+      console.log(` ${age} Your a Adult Adult`) ;
       break ;
     
     case age > 60 :

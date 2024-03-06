@@ -96,7 +96,7 @@
 
 // I think the array is always to be a const
 const users = ["Jhon Mark", "Nicole", "Key", "Samantha", "Sopheya"] ; // Array 
-let age = 19 ;
+let age = 35 ;
 let gpa = 2.0 ;
 
 userOf(users) ; // call the function 
@@ -138,7 +138,7 @@ ageOf(age) ; // call the function to display it
       console.log(`${age} Your a Teenager!`) ;
       break ;
     
-    case age <= 19 || age >= 30 :
+    case age <= 19 && age >= 30 :
       console.log(`${age} Your a Min Adult`) ;
       break ;
 

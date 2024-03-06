@@ -138,6 +138,11 @@ ageOf(age) ; // call the function to display it
       console.log("Your a Teenager!") ;
       break ;
     
-    
+    case age <= 19 || age >= 30 :
+      console.log("Your a Min Adult") ;
+      break ;
+
+    default :
+      console.log("Enter") ;
   }
  }

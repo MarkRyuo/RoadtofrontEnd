@@ -127,15 +127,14 @@ function userOf(users) {
  } ;
 
 
+ageOf(age) ;
 
- userOf(age)
-
- function userOf(age){
+ function ageOf(age){
 
   if(age < 18 && age >= 15) {
     console.log("Your Teenager") ;
   }
   else {
-    console.log("Your an Adult")
+    console.log("Your an Adult") ;
   }
  }

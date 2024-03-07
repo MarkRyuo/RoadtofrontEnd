@@ -27,4 +27,8 @@ function subOf(num1, num2) {
 }
 
 
-let resultMulti = mulOf(num1, num2) ;
+let resultMulti = multiOf(num1, num2) ;
+
+function multiOf(num1, num2) {
+  
+}

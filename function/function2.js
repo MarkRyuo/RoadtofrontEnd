@@ -9,13 +9,16 @@ let resultAdd = addOf(num1, num2) ;
 console.log(`${num1} + ${num2} = ${resultAdd}`) ;
 
 function addOf(num1, num2) {
-
+  
   let result = num1 + num2 ;
   return result ;
   
 }
 
 let resultSub = subOf(num1, num2) ;
+
+console.log(`${num1} + ${num2} = ${resultAdd}`) ;
+
 
 function subOf(num1, num2) {
 

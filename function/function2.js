@@ -14,3 +14,9 @@ function addOf(num1, num2) {
   return result ;
   
 }
+
+let resultSub = subOf(num1, num2) ;
+
+function subOf(num1, num2) {
+
+}

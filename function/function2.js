@@ -6,7 +6,7 @@ num2 = Number(num2) ;
 
 let resultAdd = addOf(num1, num2) ;
 
-console.log(`Addition ${resultAdd}`) ;
+console.log(`${num1} + ${num2} = ${resultAdd}`) ;
 
 function addOf(num1, num2) {
 
@@ -19,4 +19,6 @@ let resultSub = subOf(num1, num2) ;
 
 function subOf(num1, num2) {
 
+  let result = num1 - num2 ;
+  return result ;
 }

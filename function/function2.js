@@ -27,12 +27,13 @@ function subOf(num1, num2) {
 }
 
 
-let resultMulti = multiOf(num1, num2) ;
+let resultMulti = multiOf(num1, num2) ; // kailangan ilagay sa isang variable para sa return 
 
-console.log(`${num1} * ${num2} = ${resultMulti}`) ;
 
 function multiOf(num1, num2) {
-
+  
   let result = num1 * num2 ;
   return result ;
 }
+
+console.log(`${num1} * ${num2} = ${resultMulti}`) ;

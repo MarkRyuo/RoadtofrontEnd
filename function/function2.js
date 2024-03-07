@@ -17,7 +17,7 @@ function addOf(num1, num2) {
 
 let resultSub = subOf(num1, num2) ;
 
-console.log(`${num1} + ${num2} = ${resultAdd}`) ;
+console.log(`${num1} - ${num2} = ${resultSub}`) ;
 
 
 function subOf(num1, num2) {

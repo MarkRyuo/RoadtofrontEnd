@@ -41,6 +41,7 @@ console.log(`${num1} * ${num2} = ${resultMulti}`) ;
 
 divOf(num1, num2) ;
 
-function divOf(){
+function divOf(num1, num2){
 
+  
 }

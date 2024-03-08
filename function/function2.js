@@ -39,7 +39,9 @@ function multiOf(num1, num2) {
 console.log(`${num1} * ${num2} = ${resultMulti}`) ;
 
 
-divOf(num1, num2) ;
+let divResult = divOf(num1, num2) ;
+
+console.log("")
 
 function divOf(num1, num2){
 
